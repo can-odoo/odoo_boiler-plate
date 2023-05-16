@@ -1,6 +1,10 @@
 #!/bin/bash
 # make a directory
 
+# testing
+# new comment
+
+
 mkdir module_name
 
 # go to current directory
